@@ -6,6 +6,8 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **busenurakpinar14@gmail.com**
 
+- ⚡ Fun fact **Software development is an art, but creating a perfect masterpiece is never easy!**
+
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/buse-nur-akpinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buse-nur-akpinar" height="30" width="40" /></a>

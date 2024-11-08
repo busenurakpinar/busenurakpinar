@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buse Nur Akpınar</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">Jr. Software Developer | Jr. Front-End Developer</h3>
 
 
 - 🌱 I’m currently learning **TypeScript**

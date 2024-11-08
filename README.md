@@ -2,9 +2,9 @@
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
 
-- 🌱 Şu anda **TypeScript** öğreniyorum
+- 🌱 I’m currently learning **TypeScript**
 
-- 📫 Bana nasıl ulaşabilirsiniz **busenurakpinar14@gmail.com**
+- 📫 How to reach me **busenurakpinar14@gmail.com**
 
 - ⚡ Fun fact **Software development is an art, but creating a perfect masterpiece is never easy!**
 

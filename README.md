@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Software Developer | Jr. Front-End Developer</h3>
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **busenurakpinar14@gmail.com**
 
